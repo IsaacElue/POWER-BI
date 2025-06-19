@@ -41,4 +41,3 @@ Fundamental Power BI skills
 Best practices for dashboard layout and clarity
 
 Real-world insights from survey data in the data industry
-
