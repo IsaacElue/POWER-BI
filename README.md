@@ -10,6 +10,8 @@ Cleaned dataset using transform data function and power query (Power BI - Final 
 
 Interactive Power BI Dashboard (with visuals such as bar charts, donut charts, gauges, and tree maps)
 
+[Power BI - Final Project.xlsx](https://github.com/user-attachments/files/20820813/Power.BI.-.Final.Project.xlsx)
+
 # 🎯 Key metrics analyzed:
 
 Average salary by job title
